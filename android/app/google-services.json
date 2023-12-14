@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630208321360",
+    "project_id": "nakama-laundry",
+    "storage_bucket": "nakama-laundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630208321360:android:941f9649fa61a5221c3e55",
+        "android_client_info": {
+          "package_name": "com.example.nakama_laundry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClODhv_0eKsCPuVQJfkWq0OEfT8fqlA0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
